@@ -7,3 +7,5 @@ let z = {
   let result = 0;
   result + x + y
 }
+
+print_int(z)

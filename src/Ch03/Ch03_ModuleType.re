@@ -7,6 +7,6 @@ module type PersonType = {
 module Person: PersonType = {
   type t = {id: int, name: string};
 
-  let massage(name) = String.trim(String.capitalize(name));
+  let massage(name) = String.trim(String.capitalize_ascii(name));
   let make(id, name) = {id, name: massage(name)};
 };

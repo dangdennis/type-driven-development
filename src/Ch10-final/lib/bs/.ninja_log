@@ -1,0 +1,23 @@
+# ninja log v5
+# start_time end_time mtime command hash
+1	13	1574231018983102756	Ch10final.cmi	cf7e4f8bfb8501e9
+1	26	1574231018998187207	__tests__/Platform_test.reast	ac0bd0c6ee306263
+1	27	1574231018998644055	src/Ch10_PlatformCompany.reast	14cbf40e89f1d503
+26	32	1574231019004721426	__tests__/Platform_test.d	49ae1d5ef9eef4b6
+27	33	1574231019004741882	src/Ch10_PlatformCompany.d	935ffc97bd376de8
+33	45	1574231019017254047	src/Ch10_PlatformCompany-Ch10final.cmj	221ed7a86536fa92
+33	45	1574231019017254047	src/Ch10_PlatformCompany-Ch10final.cmi	221ed7a86536fa92
+33	45	1574231019017254047	/Users/dennis/Desktop/type-driven-development/src/Ch10-final/src/Ch10_PlatformCompany.bs.js	221ed7a86536fa92
+46	60	1574231019031394090	__tests__/Platform_test-Ch10final.cmj	8eeb328fd2f488c0
+46	60	1574231019031394090	__tests__/Platform_test-Ch10final.cmi	8eeb328fd2f488c0
+46	60	1574231019031394090	/Users/dennis/Desktop/type-driven-development/src/Ch10-final/__tests__/Platform_test.bs.js	8eeb328fd2f488c0
+0	26	1574231021876735686	src/Ch10_PlatformCompany.reast	14cbf40e89f1d503
+26	32	1574231021876735686	src/Ch10_PlatformCompany.d	935ffc97bd376de8
+32	46	1574231021896633731	src/Ch10_PlatformCompany-Ch10final.cmj	221ed7a86536fa92
+32	46	1574231021896633731	src/Ch10_PlatformCompany-Ch10final.cmi	221ed7a86536fa92
+32	46	1574231021896633731	/Users/dennis/Desktop/type-driven-development/src/Ch10-final/src/Ch10_PlatformCompany.bs.js	221ed7a86536fa92
+0	20	1574231051254458228	__tests__/Platform_test.reast	ac0bd0c6ee306263
+20	25	1574231051260340462	__tests__/Platform_test.d	49ae1d5ef9eef4b6
+25	36	1574231051270478543	__tests__/Platform_test-Ch10final.cmj	8eeb328fd2f488c0
+25	36	1574231051270478543	__tests__/Platform_test-Ch10final.cmi	8eeb328fd2f488c0
+25	36	1574231051270478543	/Users/dennis/Desktop/type-driven-development/src/Ch10-final/__tests__/Platform_test.bs.js	8eeb328fd2f488c0
